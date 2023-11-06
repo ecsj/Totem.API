@@ -74,7 +74,10 @@ jobs:
           chmod +x kubectl
           sudo mv kubectl /usr/local/bin/
           echo ${{ secrets.KUBECONFIG }} | base64 --decode > kubeconfig.yaml
-          
+
+      - name: Update kube config
+        run: aws eks update-kubeconfig --name production --region us-west-2
+      
       - name: Config
         run: cat kubeconfig.yaml
         
