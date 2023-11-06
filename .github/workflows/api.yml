@@ -56,7 +56,7 @@ jobs:
         run: ls k8s/
         
       - name: Apply Kubernetes manifest files
-        run: kubectl apply -f ./k8s/
+        run: kubectl apply -f k8s/
 
         
      
