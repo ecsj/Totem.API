@@ -1,0 +1,36 @@
+C:/Users/ecsj/OneDrive/Área de Trabalho/Desenvolvimento/Pos FIAP/Fiap.TechChallenge/src/Domain/bin/Debug/net6.0/Domain.deps.json
+C:/Users/ecsj/OneDrive/Área de Trabalho/Desenvolvimento/Pos FIAP/Fiap.TechChallenge/src/Domain/bin/Debug/net6.0/Domain.dll
+C:/Users/ecsj/OneDrive/Área de Trabalho/Desenvolvimento/Pos FIAP/Fiap.TechChallenge/src/Domain/bin/Debug/net6.0/Domain.pdb
+C:/Users/ecsj/OneDrive/Área de Trabalho/Desenvolvimento/Pos FIAP/Fiap.TechChallenge/src/Domain/obj/Debug/net6.0/Domain.csproj.AssemblyReference.cache
+C:/Users/ecsj/OneDrive/Área de Trabalho/Desenvolvimento/Pos FIAP/Fiap.TechChallenge/src/Domain/obj/Debug/net6.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/ecsj/OneDrive/Área de Trabalho/Desenvolvimento/Pos FIAP/Fiap.TechChallenge/src/Domain/obj/Debug/net6.0/Domain.AssemblyInfoInputs.cache
+C:/Users/ecsj/OneDrive/Área de Trabalho/Desenvolvimento/Pos FIAP/Fiap.TechChallenge/src/Domain/obj/Debug/net6.0/Domain.AssemblyInfo.cs
+C:/Users/ecsj/OneDrive/Área de Trabalho/Desenvolvimento/Pos FIAP/Fiap.TechChallenge/src/Domain/obj/Debug/net6.0/Domain.csproj.CoreCompileInputs.cache
+C:/Users/ecsj/OneDrive/Área de Trabalho/Desenvolvimento/Pos FIAP/Fiap.TechChallenge/src/Domain/obj/Debug/net6.0/Domain.dll
+C:/Users/ecsj/OneDrive/Área de Trabalho/Desenvolvimento/Pos FIAP/Fiap.TechChallenge/src/Domain/obj/Debug/net6.0/refint/Domain.dll
+C:/Users/ecsj/OneDrive/Área de Trabalho/Desenvolvimento/Pos FIAP/Fiap.TechChallenge/src/Domain/obj/Debug/net6.0/Domain.pdb
+C:/Users/ecsj/OneDrive/Área de Trabalho/Desenvolvimento/Pos FIAP/Fiap.TechChallenge/src/Domain/obj/Debug/net6.0/ref/Domain.dll
+\\wsl.localhost\Ubuntu\home\ecsj\fiap\Fiap.TechChallenge\src\Domain\bin\Debug\net6.0\Domain.deps.json
+\\wsl.localhost\Ubuntu\home\ecsj\fiap\Fiap.TechChallenge\src\Domain\bin\Debug\net6.0\Domain.dll
+\\wsl.localhost\Ubuntu\home\ecsj\fiap\Fiap.TechChallenge\src\Domain\bin\Debug\net6.0\Domain.pdb
+\\wsl.localhost\Ubuntu\home\ecsj\fiap\Fiap.TechChallenge\src\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+\\wsl.localhost\Ubuntu\home\ecsj\fiap\Fiap.TechChallenge\src\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+\\wsl.localhost\Ubuntu\home\ecsj\fiap\Fiap.TechChallenge\src\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+\\wsl.localhost\Ubuntu\home\ecsj\fiap\Fiap.TechChallenge\src\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+\\wsl.localhost\Ubuntu\home\ecsj\fiap\Fiap.TechChallenge\src\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+\\wsl.localhost\Ubuntu\home\ecsj\fiap\Fiap.TechChallenge\src\Domain\obj\Debug\net6.0\Domain.dll
+\\wsl.localhost\Ubuntu\home\ecsj\fiap\Fiap.TechChallenge\src\Domain\obj\Debug\net6.0\refint\Domain.dll
+\\wsl.localhost\Ubuntu\home\ecsj\fiap\Fiap.TechChallenge\src\Domain\obj\Debug\net6.0\Domain.pdb
+\\wsl.localhost\Ubuntu\home\ecsj\fiap\Fiap.TechChallenge\src\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Fiap.TechChallenge\src\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\ecsj\OneDrive\Área de Trabalho\Fiap.TechChallenge\src\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Fiap.TechChallenge\src\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\ecsj\OneDrive\Área de Trabalho\Fiap.TechChallenge\src\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\ecsj\OneDrive\Área de Trabalho\Fiap.TechChallenge\src\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ecsj\OneDrive\Área de Trabalho\Fiap.TechChallenge\src\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\ecsj\OneDrive\Área de Trabalho\Fiap.TechChallenge\src\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\ecsj\OneDrive\Área de Trabalho\Fiap.TechChallenge\src\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\ecsj\OneDrive\Área de Trabalho\Fiap.TechChallenge\src\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Fiap.TechChallenge\src\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\ecsj\OneDrive\Área de Trabalho\Fiap.TechChallenge\src\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\ecsj\OneDrive\Área de Trabalho\Fiap.TechChallenge\src\Domain\obj\Debug\net6.0\ref\Domain.dll

@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "L3+SZ4lg41lu6NDQVgleFHVuPPbusgHHuczULJRY+KWreLg/EsSBo4z7guq/hN+dvDohaICyW/ppmf0MDTJyDg==",
+  "success": true,
+  "projectFilePath": "/Users/eduardocarmo/Downloads/Fiap.TechChallenge.Totem.Fase2-main 2/src/Application/Application.csproj",
+  "expectedPackageFiles": [
+    "/Users/eduardocarmo/.nuget/packages/microsoft.entityframeworkcore/7.0.8/microsoft.entityframeworkcore.7.0.8.nupkg.sha512",
+    "/Users/eduardocarmo/.nuget/packages/microsoft.entityframeworkcore.abstractions/7.0.8/microsoft.entityframeworkcore.abstractions.7.0.8.nupkg.sha512",
+    "/Users/eduardocarmo/.nuget/packages/microsoft.entityframeworkcore.analyzers/7.0.8/microsoft.entityframeworkcore.analyzers.7.0.8.nupkg.sha512",
+    "/Users/eduardocarmo/.nuget/packages/microsoft.extensions.caching.abstractions/7.0.0/microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
+    "/Users/eduardocarmo/.nuget/packages/microsoft.extensions.caching.memory/7.0.0/microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
+    "/Users/eduardocarmo/.nuget/packages/microsoft.extensions.configuration.abstractions/7.0.0/microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "/Users/eduardocarmo/.nuget/packages/microsoft.extensions.dependencyinjection/7.0.0/microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "/Users/eduardocarmo/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "/Users/eduardocarmo/.nuget/packages/microsoft.extensions.fileproviders.abstractions/7.0.0/microsoft.extensions.fileproviders.abstractions.7.0.0.nupkg.sha512",
+    "/Users/eduardocarmo/.nuget/packages/microsoft.extensions.hosting.abstractions/7.0.0/microsoft.extensions.hosting.abstractions.7.0.0.nupkg.sha512",
+    "/Users/eduardocarmo/.nuget/packages/microsoft.extensions.logging/7.0.0/microsoft.extensions.logging.7.0.0.nupkg.sha512",
+    "/Users/eduardocarmo/.nuget/packages/microsoft.extensions.logging.abstractions/7.0.1/microsoft.extensions.logging.abstractions.7.0.1.nupkg.sha512",
+    "/Users/eduardocarmo/.nuget/packages/microsoft.extensions.options/7.0.0/microsoft.extensions.options.7.0.0.nupkg.sha512",
+    "/Users/eduardocarmo/.nuget/packages/microsoft.extensions.primitives/7.0.0/microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "/Users/eduardocarmo/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
