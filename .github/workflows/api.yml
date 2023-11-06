@@ -48,7 +48,11 @@ jobs:
           curl -LO "https://dl.k8s.io/release/$(curl -L -s -H 'Accept: application/vnd.github.v3+json' https://github.com/kubernetes/kubernetes/releases/latest | jq -r .tag_name)/bin/linux/amd64/kubectl"
           chmod +x kubectl
           sudo mv kubectl /usr/local/bin/
+        
+      - name: Apply Kubernetes manifest files
+        run: ls 
 
       - name: Apply Kubernetes manifest files
-        run: kubectl apply -f ../../k8s/
+        run: ls ./ && ls /k8s
+        
      
