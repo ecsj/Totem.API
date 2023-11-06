@@ -53,8 +53,7 @@ jobs:
           sudo mv kubectl /usr/local/bin/
         
       - name: Apply Kubernetes manifest files
-        run: |
-          ls ${{ github.workspace }}
+        run: kubectl apply -f k8s/
 
         
      
