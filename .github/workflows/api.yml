@@ -82,6 +82,7 @@ jobs:
           export ECR_REPOSITORY=${{ env.ECR_REGISTRY }}/${{ env.ECR_REPOSITORY }}
           export IMAGE_TAG=latest
           export KUBECONFIG=kubeconfig.yaml
+          cat kubeconfig.yaml
           kubectl apply -f -
           
      
