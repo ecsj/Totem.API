@@ -50,10 +50,8 @@ jobs:
           sudo mv kubectl /usr/local/bin/
         
       - name: Apply Kubernetes manifest files
-        run: ls
-        
-      - name: List files in k8s directory
-        run: ls k8s
+        run: |
+          ls ${{ github.workspace }}
 
         
      
