@@ -50,9 +50,6 @@ jobs:
           sudo mv kubectl /usr/local/bin/
         
       - name: Apply Kubernetes manifest files
-        run: ls 
-
-      - name: Apply Kubernetes manifest files
-        run: ls ./ && ls /k8s
+        run: ls ./k8s
         
      
