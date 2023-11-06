@@ -77,17 +77,20 @@ jobs:
 
       - name: Update kube config
         run: aws eks update-kubeconfig --name totem-eks --region us-west-2
-      
-      - name: Config
-        run: cat kubeconfig.yaml
-        
-      - name: Deploy
-        env:
-          ECR_REGISTRY: ${{ steps.login-ecr.outputs.registry }}
-        run: |
-          export ECR_REPOSITORY=${{ env.ECR_REGISTRY }}/${{ env.ECR_REPOSITORY }}
-          export IMAGE_TAG=latest
-          export KUBECONFIG=kubeconfig.yaml          
-          kubectl apply -f -
+    
+     # - name: Deploy
+     #   env:
+     #     ECR_REGISTRY: ${{ steps.login-ecr.outputs.registry }}
+     #   run: |
+     #     export ECR_REPOSITORY=${{ env.ECR_REGISTRY }}/${{ env.ECR_REPOSITORY }}
+     #     export IMAGE_TAG=latest
+     #     export KUBECONFIG=kubeconfig.yaml          
+     #     kubectl apply -f -
+
+
+      # Deploy newly built changes to EKS cluster.
+      - name: Deploy To Cluster
+        shell: bash
+        run: kubectl apply -n default -f k8s/
           
      
