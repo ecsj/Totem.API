@@ -54,7 +54,7 @@ jobs:
           echo ${{ secrets.KUBECONFIG }} | base64 --decode > kubeconfig.yaml
 
       - name: Update kube config
-        run: aws eks update-kubeconfig --name totem-eks --region us-west-2
+        run: aws eks update-kubeconfig --name producao --region us-west-2
 
       # Deploy newly built changes to EKS cluster.
       - name: Deploy To Cluster
